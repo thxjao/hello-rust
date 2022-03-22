@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let age: u8 = 19;
+    println!("Minha idade atual é: {}", age);
 }
